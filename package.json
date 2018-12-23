@@ -1,5 +1,5 @@
 {
-  "name": "mock-cli",
+  "name": "mockbot-cli",
   "version": "1.0.0",
   "description": "CLI for mockifying text",
   "main": "./lib/index.js",
