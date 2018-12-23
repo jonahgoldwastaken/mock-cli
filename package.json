@@ -1,0 +1,24 @@
+{
+  "name": "mock-cli",
+  "version": "1.0.0",
+  "description": "CLI for mockifying text",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theonejonahgold/mock-cli.git"
+  },
+  "keywords": [],
+  "author": "Jonah Meijers <jonahmeijers97@gmail.com> (https://www.jonahmeijers.nl/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theonejonahgold/mock-cli/issues"
+  },
+  "homepage": "https://github.com/theonejonahgold/mock-cli#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "prettier": "^1.15.3"
+  }
+}
