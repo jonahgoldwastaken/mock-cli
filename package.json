@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "CLI for mockifying text",
   "main": "./lib/index.js",
+  "bin": {
+    "mock": "./bin/mock-cli.js"
+  },
+  "preferGlobal": true,
   "scripts": {
     "test": "jest"
   },
@@ -18,7 +22,6 @@
   },
   "homepage": "https://github.com/theonejonahgold/mock-cli#readme",
   "devDependencies": {
-    "jest": "^23.6.0",
     "prettier": "^1.15.3"
   }
 }
