@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/theonejonahgold/mock-cli#readme",
   "devDependencies": {
+    "jest": "^26.4.2",
     "prettier": "^1.15.3"
   }
 }
